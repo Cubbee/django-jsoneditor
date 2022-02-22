@@ -26,6 +26,7 @@ setup(
     package_data = {
         'jsoneditor':[
             'static/jsoneditor/*.js',
+            'static/jsoneditor/*.map',
             'static/jsoneditor/*.css',
             'static/jsoneditor/img/*',
             'static/django-jsoneditor/*.js',
